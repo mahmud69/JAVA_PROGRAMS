@@ -1,8 +1,6 @@
 package com.mahmud.collections;
 
-/**
- * Created by khali on 6/18/2017.
- */
+
 import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Set;
@@ -11,7 +9,7 @@ public class HashtableExample {
 
     public static void main(String a[]){
 
-        Hashtable<String, String> ht = new Hashtable<>();
+        Hashtable<String, String> ht = new Hashtable<String, String>();
         //add key-value pair to Hashtable
         ht.put("first", "FIRST INSERTED");
         ht.put("second", "SECOND INSERTED");
