@@ -7,6 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="scala-sdk-2.12.6" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.12.4" level="application" />
+    <orderEntry type="library" name="AWS" level="application" />
+    <orderEntry type="library" name="aws-java-sdk-1.11.280-sources" level="project" />
+    <orderEntry type="library" name="aspectjrt-1.8.2" level="project" />
   </component>
 </module>
