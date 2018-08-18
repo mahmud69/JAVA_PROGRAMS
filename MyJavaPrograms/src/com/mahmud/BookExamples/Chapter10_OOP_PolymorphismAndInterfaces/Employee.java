@@ -1,4 +1,4 @@
-package com.mahmud.BookExample.Chapter10_OOP_PolymorphismAndInterfaces;
+package com.mahmud.BookExamples.Chapter10_OOP_PolymorphismAndInterfaces;
 
 // Employee abstract superclass.
 public abstract class Employee
