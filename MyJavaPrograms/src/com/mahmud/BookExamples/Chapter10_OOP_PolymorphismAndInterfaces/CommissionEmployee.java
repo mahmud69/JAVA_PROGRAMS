@@ -1,5 +1,6 @@
 package com.mahmud.BookExamples.Chapter10_OOP_PolymorphismAndInterfaces;
 
+//
 public class CommissionEmployee extends Employee {
     private double grossSales; // gross weekly sales
     private double commissionRate; // commission percentage
