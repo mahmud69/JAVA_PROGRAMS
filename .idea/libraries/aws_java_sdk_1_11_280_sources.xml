@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="aws-java-sdk-1.11.280-sources">
+    <CLASSES>
+      <root url="jar://C:/AWS-SDK/aws-java-sdk-1.11.280/lib/aws-java-sdk-1.11.280.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/AWS-SDK/aws-java-sdk-1.11.280/lib/aws-java-sdk-1.11.280-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
